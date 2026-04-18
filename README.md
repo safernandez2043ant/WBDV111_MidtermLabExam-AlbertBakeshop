@@ -28,7 +28,11 @@ Albert's Bakeshop is a responsive, multi-page website established in 2022 to sho
 - `/js/main.js` - Interactive functionality
 
 ## Screenshots
-*(Add your screenshots here after deployment)*
+![HomeScreen Preview](assets/screenshots/1f98a962-f199-467d-91df-9be4250edbc2.jpg)
+![Products Gallery Preview](assets/screenshots/5eab3aeb-02ac-427f-9d3e-8a885cd49b48.jpg)
+![Mobile Responsive Preview](assets/screenshots/8df4eb82-8892-4dea-a7a4-485764f10fb4.jpg)
+![About Section Preview](assets/screenshots/8e79bdfe-d817-4b91-adc6-21cfdb4eee44.jpg)
+
 
 ---
 *Created for WBDV111 Midterm Lab Exam*
