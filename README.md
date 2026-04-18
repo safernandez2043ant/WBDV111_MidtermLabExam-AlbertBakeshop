@@ -1,7 +1,7 @@
 # Albert's Bakeshop - Midterm Lab Exam
 
 ## Project Information
-**Student Name:** S. A. Fernandez  
+**Student Name:** Sasha Nashlie Fernandez  
 **Course & Section:** WBDV111 - Midterm Lab  
 **Project Title:** Albert's Bakeshop Website  
 **Contact:** safernandez2043ant@student.fatima.edu.ph
